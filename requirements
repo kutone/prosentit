@@ -1,0 +1,16 @@
+scikit-learn==1.0.2
+numpy==1.21.0
+scipy==1.7.0
+joblib==1.1.1
+threadpoolctl==2.2.0
+pandas==1.5.3
+blosc2==2.0.0
+cython==0.29.21
+FuzzyTM==1.0.0
+bamboolib==1.30.19
+daal==2021.4.0
+requests==2.31.0
+great_expectations==0.16.14
+streamlit==1.22.0
+fmi-weather-client==0.1.2
+plotly==5.9.0
